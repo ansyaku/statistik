@@ -13,7 +13,7 @@ __b. Kurtosis/Keruncingan (*tailedness/pointiness*)__ <br>
 Indikator yang menunjukkan derajat keruncingan distribusi <br>
 1. __Leptokurtis__-Jika nilai kurtosis lebih besar dari 3, maka kurva distribusi disebut leptokurtis.
 2. __Mesokurtis__- Jika nilai kurtosis sama dengan 3.
-3. __Platikurtis__<br>  jika lebih rendah dari 3, maka disebut platikurtis.
+3. __Platikurtis__ - Jika lebih rendah dari 3, maka disebut platikurtis.
 
 __2. Shapiro-Wilk Test__
 Membandingkan metode uji normalitas ini efektif dan valid digunakan untuk sampel berjumlah kecil.
